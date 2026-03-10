@@ -6,6 +6,9 @@ This Spatial Dragon was reconstructed using 3D Gaussian Splatting from video foo
 
 Download the Spatial Dragon data (.ply / .splat) and place it in your own scene.
 
+data/spatial_dragon.ply
+data/spatial_dragon.splat
+
 ## License
 
 CC0 1.0 (Public Domain)
