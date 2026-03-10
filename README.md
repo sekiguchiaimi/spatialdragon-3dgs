@@ -1,3 +1,4 @@
+![Spatial Dragon](preview/spatial_dragon.jpg)
 # Spatial Dragon
 
 This Spatial Dragon was reconstructed using 3D Gaussian Splatting from video footage of a spatial drawing hand-drawn with Apple Vision Pro.
